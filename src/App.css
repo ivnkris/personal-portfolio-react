@@ -143,6 +143,7 @@ main {
 /* footer styles */
 footer {
   margin: 3rem;
+  min-width: 100vw;
 }
 .footer--content {
   text-align: center;
