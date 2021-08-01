@@ -4,7 +4,9 @@ const Navigation = (props) => {
       <a href="/">About Me</a>
       <a href="/portfolio">Portfolio</a>
       <a href="/contact">Contact</a>
-      <a href="/resume">Resume</a>
+      <a href="./assets/pdf/CV_Krisztian_Ivan.pdf" download>
+        Resume
+      </a>
     </nav>
   );
 };

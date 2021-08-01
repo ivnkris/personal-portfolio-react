@@ -6,7 +6,7 @@ const AboutMe = (props) => {
       <main>
         <div class="element-container">
           <div class="heading--container">
-            <h2 id="about-me" class="animation-2">
+            <h2 id="about-me" class="animation-1">
               About Me
             </h2>
           </div>
