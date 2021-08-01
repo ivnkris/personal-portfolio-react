@@ -34,6 +34,14 @@ h1 {
   font-size: 3rem;
 }
 
+a {
+  text-decoration: none;
+  padding: 2rem;
+  color: #000000;
+  margin: 0 1rem;
+  font-size: 1.8rem;
+}
+
 nav {
   display: flex;
   justify-content: flex-end;
