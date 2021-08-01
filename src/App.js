@@ -1,4 +1,4 @@
-import { HashRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 
 import Routes from "./Routes";
 import Header from "./components/Header";
@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Routes />
     </Router>
