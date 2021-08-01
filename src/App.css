@@ -57,6 +57,7 @@ main {
 .element-container {
   display: flex;
   flex: 1 0 100%;
+  min-height: 80wp;
 }
 
 .heading--container {
@@ -142,9 +143,6 @@ main {
 /* footer styles */
 footer {
   margin: 3rem;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
 }
 .footer--content {
   text-align: center;
