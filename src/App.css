@@ -140,6 +140,18 @@ main {
   color: var(--black-text);
 }
 
+form {
+  margin: 3rem;
+}
+
+.form-item {
+  margin: 3rem;
+}
+
+.form-email {
+  margin-left: 3rem;
+}
+
 /* footer styles */
 footer {
   margin: 3rem;

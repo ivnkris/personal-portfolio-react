@@ -1,3 +1,4 @@
+import ContactForm from "../components/ContactForm";
 import Footer from "../components/Footer";
 
 const Contact = (props) => {
@@ -10,8 +11,9 @@ const Contact = (props) => {
               Contact Me
             </h2>
           </div>
-
-          <div class="right-border"></div>
+          <section class="portfolio--container">
+            <ContactForm />
+          </section>
         </div>
       </main>
       <Footer />
