@@ -22,6 +22,6 @@ https://github.com/ivnkris/personal-portfolio-react
 
 ## Screenshots
 
-![Screenshot from deployed website](./assets/images/screenshot1.png)
-![Screenshot from deployed website](./assets/images/screenshot2.png)
-![Screenshot from deployed website](./assets/images/screenshot3.png)
+![Screenshot from deployed website](./public/assets/images/Screenshot1.png)
+![Screenshot from deployed website](./public/assets/images/Screenshot2.png)
+![Screenshot from deployed website](./public/assets/images/Screenshot3.png)

@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 import Footer from "../components/Footer";
 
 const Resume = (props) => {
@@ -23,9 +25,9 @@ const Resume = (props) => {
         </div>
 
         <div class="element-container">
-          <a href="./assets/pdf/CV_Krisztian_Ivan.pdf" download>
+          <Link to="/assets/pdf/CV_Krisztian_Ivan.pdf" target="_blank" download>
             Download my Resume
-          </a>
+          </Link>
         </div>
       </main>
       <Footer />
