@@ -57,7 +57,7 @@ main {
 .element-container {
   display: flex;
   flex: 1 0 100%;
-  min-height: 80wp;
+  min-height: 100%;
 }
 
 .heading--container {
