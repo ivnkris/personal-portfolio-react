@@ -142,6 +142,9 @@ main {
 /* footer styles */
 footer {
   margin: 3rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 .footer--content {
   text-align: center;
