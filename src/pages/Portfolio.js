@@ -18,7 +18,7 @@ const Portfolio = (props) => {
               imgAlt="Bandmatch - A one-stop-shop for musicians, so that they can focus on creating amazing music"
               deployedLink="https://arcane-springs-60231.herokuapp.com"
               title="Bandmatch"
-              description="A one-stop-shop for musicians, so that they can focus on creating amazing music"
+              description="A one-stop-shop for musicians"
             />
             <Project
               repoLink="https://github.com/ivnkris/p1xel"
@@ -66,7 +66,7 @@ const Portfolio = (props) => {
               imgAlt="PWA Budget Tracker"
               deployedLink="https://still-thicket-78174.herokuapp.com"
               title="PWA Budget Tracker"
-              description="A progressive web application to track your spending even when you're offline"
+              description="A progressive web application to track your spending"
             />
             <Project
               repoLink="https://github.com/ivnkris/weather-dashboard"
