@@ -13,6 +13,14 @@ const Portfolio = (props) => {
           </div>
           <section class="portfolio--container">
             <Project
+              repoLink="https://github.com/ivnkris/bandmatch-client"
+              imgLink="./assets/images/bandmatch.png"
+              imgAlt="Bandmatch - A one-stop-shop for musicians, so that they can focus on creating amazing music"
+              deployedLink="https://arcane-springs-60231.herokuapp.com"
+              title="Bandmatch"
+              description="A one-stop-shop for musicians, so that they can focus on creating amazing music"
+            />
+            <Project
               repoLink="https://github.com/ivnkris/p1xel"
               imgLink="./assets/images/p1xel.png"
               imgAlt="P1xel - A digital gaming library with a social element"
@@ -43,6 +51,22 @@ const Portfolio = (props) => {
               deployedLink="https://github.com/ivnkris/team-profile-generator"
               title="Team Profile Generator"
               description="Command line organisational chart generator"
+            />
+            <Project
+              repoLink="https://github.com/ivnkris/full-stack-tech-blog"
+              imgLink="./assets/images/full-stack-tech-blog.png"
+              imgAlt="Full-stack tech blog"
+              deployedLink="https://warm-brushlands-16207.herokuapp.com"
+              title="Full-stack Tech Blog"
+              description="A full-stack blogging app for developers"
+            />
+            <Project
+              repoLink="https://github.com/ivnkris/PWA-budget-tracker"
+              imgLink="./assets/images/pwa-budget-tracker.png"
+              imgAlt="PWA Budget Tracker"
+              deployedLink="https://still-thicket-78174.herokuapp.com"
+              title="PWA Budget Tracker"
+              description="A progressive web application to track your spending even when you're offline"
             />
             <Project
               repoLink="https://github.com/ivnkris/weather-dashboard"
